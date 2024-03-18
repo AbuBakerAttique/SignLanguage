@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "26519729833",
+    "project_id": "signlanguage-3dd71",
+    "storage_bucket": "signlanguage-3dd71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26519729833:android:82408807429bf8b1a79bb8",
+        "android_client_info": {
+          "package_name": "com.awesomeproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD73EMMZURj_jkrAdAmVTAeAg2hiurnabE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
